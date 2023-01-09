@@ -1,0 +1,186 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.menu{
+    width: 100%;
+    height: 54px;
+}
+.menu ul{
+    list-style-type: none;
+    background: #F9CB53;
+    text-align: center;
+    display: flex;
+}
+.menu ul li a{
+    color: white;
+    text-decoration: none;
+    display: block;
+    width: 200px;
+    height: 54px;
+    line-height: 54px;
+    transition: 1s;
+    font-size: 20px;
+}
+.menu ul li a:hover{
+    color: #D83D21;
+}
+.menu ul li{
+    margin-left: 55px;
+}
+.footer{
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: none;
+    height: 280px;
+    display: flex;
+    background-color: black;
+}
+.footer a{
+    text-decoration: none;
+}
+.thongtin{
+    width: 530px;
+    text-align: center;
+    margin-top: 30px;
+    height: 250px;
+}
+.lienket{
+    width: 320px;
+    text-align: center;
+    margin-top: 30px;
+    height: 250px;
+}
+.hotro{
+    width: 400px;
+    text-align: center;
+    margin-top: 30px;
+    height: 250px;
+}
+.topic{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+.info{
+    color: white;
+    cursor: pointer;
+}
+.info:hover{
+    color: orange;
+}
+.doi{
+    height: 60px;
+    width: 150px;
+    margin-right: 10px;
+}
+.doi:hover{
+    background-color: orange;
+}
+
+.footer .lienket a{
+    color: black;
+    transition: 1s;
+}
+.footer .lienket a:hover{
+    color: white;
+    transition: 1s;
+}
+
+.tong{
+    width: 100%;
+    height: 5850px;
+    border: 0,5px solid;
+    text-align: center;
+    background-color: #FBF5DF;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+.tren1{
+    background-image: url("/pic/bieutuong1-removebg-preview.png");
+    width: 100%;
+    height: 150vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: none;
+}
+.tren2{
+    background-image: url("/pic/bieutuong2-removebg-preview.png");
+    width: 100%;
+    height: 150vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: none;
+}
+.tren3{
+    background-image: url("/pic/bieutuong3-removebg-preview.png");
+    width: 100%;
+    height: 150vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: none;
+}
+.tren4{
+    background-image: url("/pic/bieutuong4-removebg-preview.png");
+    width: 100%;
+    height: 150vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: none;
+}
+.tren5{
+    background-image: url("/pic/bieutuong5-removebg-preview.png");
+    width: 100%;
+    height: 150vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: none;
+}
+.tren6{
+    background-image: url("/pic/bieutuong6-removebg-preview.png");
+    width: 100%;
+    height: 150vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: none;
+}
+.up3{
+    margin-left: 300px;
+    width: 60%;
+    text-align: center;
+}
+.title{
+    font-size: 40px;
+    color: #D83D21;
+}
+.text{
+    font-size: 22px;
+}
+.mamco{
+    height: 400px;
+    width: 600px;
+}
+.up1{
+    width: 100%;
+    height: 50px;
+    margin-top: 50px;
+}
+.banhchungbanhgiay{
+    width: 600px;
+    height: 400px;
+}
+.lixi{
+    width: 300px;
+    height: 500px;
+}
+.caudoi{
+    width: 400px;
+    height: 500px;
+}
+.cachep{
+    width: 600px;
+    height: 400px;
+}
